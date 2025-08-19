@@ -1,2 +1,2 @@
 # Aziz-webseiten
-Repo für die erstellung von webseiten
+Repo für die Erstellung von webseiten
